@@ -1,0 +1,35 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.App {
+  text-align: center;
+}
+
+nav{
+  background-color: #d3d3d3;
+}
+
+#pay-card{
+  background-color: #d3d3d3;
+
+}
+
+.select-category{
+  width: 400px;
+}
+
+.star{
+  margin-top: -17px;
+}
+
+.link{
+  text-decoration: none;
+  color: #666;
+}
+
+.delete-product:hover{
+  cursor: pointer;
+}
+
+#cart-icon:hover{
+  cursor: pointer;
+}
