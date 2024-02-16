@@ -1,3 +1,13 @@
+
+![image](https://github.com/JorgeC0d3/ReactJS_demo_shop/assets/158076905/fa9bee58-47df-4bf1-82eb-193e8cc3aacf)
+
+![image](https://github.com/JorgeC0d3/ReactJS_demo_shop/assets/158076905/3cac8145-7ed2-47aa-88e4-7e9c0b2af73a)
+
+![image](https://github.com/JorgeC0d3/ReactJS_demo_shop/assets/158076905/0b629487-1fb0-4400-9817-432e1c3c89f4)
+
+![image](https://github.com/JorgeC0d3/ReactJS_demo_shop/assets/158076905/654e7bf4-7591-46f2-ab3e-ffea6fbdf2ff)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
